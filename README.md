@@ -14,6 +14,8 @@ Build a simple CRUD application that has the following requirements/features:
   * POST /users/create - creates a user record in the db
 * sqlalchemy as an ORM
 
+## Database ##
+
 A user has the following attributes:
 
 * firstname
@@ -21,6 +23,9 @@ A user has the following attributes:
 * age
 * date of birth
 
+How you create the database table is your choice.
+
+## Evaluation Criteria ##
 The above task is designed to show your familiarity with the technology MobilityIQ uses.
 
 Once complete, a non-technical person should be able to pull your repo and:
