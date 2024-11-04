@@ -39,4 +39,4 @@ Once complete, a non-technical person should be able to pull your repo and:
 Once submitted, your application will be tested and in a short technical interview you will be asked to go over your 
 code and answer some questions about the application.
 
-Please use this as an opportunity to show how you normally code and approach coding assignments.
+If you don't include X in your final submission, then the assumption is you don't usually include X in your normal day-to-day coding. Please use this as an opportunity to show how you normally code and approach coding assignments (feel free to show off how good you really are!). 
